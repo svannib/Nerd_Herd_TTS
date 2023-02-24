@@ -8,7 +8,7 @@ Fear not, Tabletop simulator (and a blossoming community of players) is here to 
 Well... the name speaks for itself. Tabletop simulator (TTS) is a game built to simulate a tabletop. This offers a blank canvas for modders, companies and communities. The game is programmed specifically to act as a scaffold for any game which uses a physical medium to be played (cards, models, figures, boards... practically all games that are not videogames). Thus it lends itself very well to playing Warhammer 40k.
 
 ###### Technical requirements
-- Considering investing in a decent speaker and mic setup, nobody enjoys hearing your gf spreading the good word of Lorgar in the background. 
+- Consideri investing in a decent speaker and mic setup, nobody enjoys hearing your gf spreading the good word of Lorgar in the background. 
 ###### System requirements
 - OS: Windows 7 SP1+/ macOS 10.12+
 - Processor: SSE2 instruction set support.
