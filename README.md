@@ -1,5 +1,5 @@
 # Nerd_Herd_TTS
-
+<img src="NerdHerd_Logo.jpg" alt="drawing" width="400"/>
 So... you want to play some 40k without suffering 6 hours of trains exploding with sweaty tourists...
 Fear not, Tabletop simulator (and a blossoming community of players) is here to save you.
 
