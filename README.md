@@ -26,11 +26,11 @@ Tabletop Simulator is available on steam, and it is discounted often and heavily
 
 ## Mods
 Warhammer is a game with a very complicated and dynamic ruleset. This can make the game challenging to set up and play, but it also brings a big advantage. A LOT of nerds play it, and it just so happens that nerds are often good at programming, organising and automatising things. A community of 40k player has created two very important tools to play warhammer:
-- **The [Battleforged mod](https://github.com/TTSWarhammer40k/Battleforged-Workshop-Mod-Compilation):** A tool that contains a table made specifically for 40k and a vast collection of maps and models.
+- **The [Battleforged mod](https://github.com/TTSWarhammer40k/Battleforged-Workshop-Mod-Compilation):** A tool that contains a table made specifically for 40k and a vast collection of maps and models. Installation intructions are in their GitHub, since the table and the models need to be present on your machine.
 - **The [Yellowscribe Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2920625970) and its [companion website](https://yellowscribe.xyz/):** Yellowscribe allows you to convert a battlescribe ```.rosz``` file into datasheets which can be assigned to ```battleforge```models and the be used to generate an army automatically. Keeping the datasheets and the models separated allows you to keep up with the latest rules without constantly updating models
 
 ## Creating and importing lists
-Army lists are created with [Battlescribe](https://battlescribe.net/?tab=news). Export your list as a ```.rosz``` file.
+Army lists are created with [Battlescribe](https://battlescribe.net/?tab=news). Export your list as a ```.rosz``` file. Now, we will need to convert this file into datasheets which can be assigne to models, which will then be generated in the appropriate number.
 
 ## Setting up a game
 
