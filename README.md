@@ -1,5 +1,5 @@
 # Nerd_Herd_TTS
-NerdHerd_Logo.jpg
+
 So... you want to play some 40k without suffering 6 hours of trains exploding with sweaty tourists...
 Fear not, Tabletop simulator (and a blossoming community of players) is here to save you.
 
