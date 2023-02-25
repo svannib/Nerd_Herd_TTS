@@ -67,7 +67,7 @@ Once all datasheets are green, hit the magical ```create army``` button. And the
 
 <img src="images/army_setup/complete army.PNG" alt="drawing" width="1200"/>
 
-Congratulations! Your army is ready for battle! I know, not as pretty as your IRL army, but well' make do.
+Congratulations! Your army is ready for battle! I know, not as pretty as your IRL army, but we'll make do.
 
 ## Setting up a game
 
