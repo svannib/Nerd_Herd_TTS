@@ -83,7 +83,7 @@ If any ```missing model``` dialog pops up just close them.
 
 <img src="images/game_setup/set_up_map.PNG" alt="drawing" width="1200"/>
 
-Tadaaaa, map loaded. Now head over to the top of the table. There you will enable a Grant Tournament scoreboard, where you can fill in primary objectives, secondaries, deployment zones. Here you will find a lot of markers to use to remind you of buffs, debuffs, actions, etc. etc.
+Tadaaaa, map loaded. Now head over to the top of the table. There you will enable a Grant Tournament scoreboard, where you can fill in primary objectives, secondaries, deployment zones. Here you will find a lot of markers to use to remind you of buffs, debuffs, actions, etc. etc. Also here you have tools to keep track of time, turns and phases.
 
 <img src="images/game_setup/scoreboard.PNG" alt="drawing" width="1200"/>
 
@@ -109,7 +109,28 @@ And a final important tip: select all your army with the mouse, right click it, 
 
 ## Playing a game
 
-## Shortcuts and tips
+So, assuming you can play 40k already, here are some basic commands.
+- move your camera with ```WASD```, the ```mouse wheel``` and ```right click```
+- pick, up, move and box-select models with your ```left-click```
+- ```right click``` is also used to dive into more options on models
+- - hover on one models to see stats, equipment and abilities
+- Once you pick up a model or a unit use ```Q``` and ```E``` to rotate them
+- if you pick up a unit use ```numbers``` to determine the ranks of the unit
+- Ping models with ```tab``` when selecting units to shoot from and to
+- hold ```tab``` to measure distances from models to models or terrain
+- Flip models with ```F``` to keep track of dead models and then clear them after the morale phase
+- Go to ```game``` and ```Save & Load``` to save your game exactly as it is a finish it at a second time
+
+And here are some more advanced tips. It's a work in progress, so feel free to contribute as everybody discovers new stuff.
+- Even more options are at your disposal on the keypad numbers!
+- **1:** For even more details on the model rules and confusion prevention you can color your models or units so that you do not mix up your identical 8 units of 8 Berzerkers.
+- **2:** Decrease wound count on a model by 1
+- **3:** Increase wound count on a models by 1
+- **4:** Increase aura size around a model by 1"
+- **5:** Decrease aura size around a model by 1"
+- **7:** Pass time to the other player
 
 ## Best practices in TTS
 
+Save the game at crucial points, so that you can check stuff both players forgot or prevent the loss of a big turn in case the host crashes.
+Create your army in advance. If one person has more time they can set up the map in advance. 
