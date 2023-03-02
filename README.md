@@ -132,5 +132,5 @@ And here are some more advanced tips. It's a work in progress, so feel free to c
 
 ## Best practices in TTS
 
-Save the game at crucial points, so that you can check stuff both players forgot or prevent the loss of a big turn in case the host crashes.
-Create your army in advance. If one person has more time they can set up the map in advance. 
+- Save the game at crucial points, so that you can check stuff both players forgot or prevent the loss of a big turn in case the host crashes.
+- Create your army in advance. If one person has more time they can set up the map in advance. 
