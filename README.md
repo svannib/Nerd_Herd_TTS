@@ -53,6 +53,7 @@ Now also open chrome and go to the [Yellowscribe website](https://yellowscribe.x
 Once you are satisfied, go to the bottom of the website and hit submit. This will generate a code, which you will paste in the Yellowscribe table in TTS you had open in the background and submit again. This will generate all the datasheets of your army on the right side of the table. And on the left side you will generate your models by going to objects on top of the screen, hit saved objects and click the properly named subset of models we prepared. Then click on the left side of the table ONCE and then hit esc. 
 
 <img src="images/army_setup/click_ONCE.PNG" alt="drawing" width="1200"/>
+
 Do NOT click multiple times or keep the mouse button down! (see above)
 
 Well done! Now we have datasheets and models. To link them, click on a datasheet (which will light up pink) 
@@ -70,6 +71,41 @@ Once all datasheets are green, hit the magical ```create army``` button. And the
 Congratulations! Your army is ready for battle! I know, not as pretty as your IRL army, but we'll make do.
 
 ## Setting up a game
+Now to the juicy part, open the ```FTC competitive 40k map``` from the workshop contents as a multiplayer session. Select your preferred player color (red and blue can move models, grey cannot). Confirm that you are playing and not building a map (unless you're building a map of course), and select the appropriate map size for your game.
+
+<img src="images/game_setup/select_battlefield_size.PNG" alt="drawing" width="1200"/>
+
+Once generated the playing field hit ```game``` on the top left and go to ```Save & Load --> Battleforged mod pack --> Warhammer 40,000 --> Maps & Terrain --> <your battle size>```. Ther you will find many maps, some contain broken or outdated textures, so they may look funky once loaded. Finding a good map is a roll of the dice, really (hehe, rolling dice... get it...?), but most of them look really solid and are up to date. Now select the three points displayed on the top right of the map, and go for ```additive loading```, this will load the map onto the table you have open without overwriting it. 
+
+<img src="images/game_setup/additive _loading.PNG" alt="drawing" width="1200"/>
+
+If any ```missing model``` dialog pops up just close them.
+
+<img src="images/game_setup/set_up_map.PNG" alt="drawing" width="1200"/>
+
+Tadaaaa, map loaded. Now head over to the top of the table. There you will enable a Grant Tournament scoreboard, where you can fill in primary objectives, secondaries, deployment zones. Here you will find a lot of markers to use to remind you of buffs, debuffs, actions, etc. etc.
+
+<img src="images/game_setup/scoreboard.PNG" alt="drawing" width="1200"/>
+
+Now head over to your side to the board and observe your hub zone (either red or blue, depending on your player color, on one side of the map). There you will find a dice board, where you can spawn and roll dice and generate your secondaries to keep a close eye on them.
+
+<img src="images/game_setup/secondaries_and_dice.PNG" alt="drawing" width="1200"/>
+
+Once everything is set up, import your army (which you named properly, right?) from your ```saved objects``` in the ```objects``` menu on top of the screen.
+
+<img src="images/game_setup/imported_army.PNG" alt="drawing" width="1200"/>
+
+Once you army is generated remember that you can rename models to avoid incomprehension and forgetfulness (for example "chaos rhino" and "chaos rhino" become "Khârn rhino" and "'Zerker rhino"). Simply right-click the model and then left click on its name (you can also keep track of wounds this way without dragging around wound counters).
+
+<img src="images/game_setup/renaming_models.PNG" alt="drawing" width="1200"/>
+
+Also look on your side of the board and see that you have a small colored board where you can keep models in transports, reserves or deep strike.
+
+<img src="images/game_setup/reserves_and_transports.PNG" alt="drawing" width="1200"/>
+
+And a final important tip: select all your army with the mouse, right click it, go to ```toogle``` and turn on ```measure movement```. This will display the distance a model moves every time it's picked up. Cool, right?
+
+<img src="images/game_setup/measure_movement.PNG" alt="drawing" width="1200"/>
 
 ## Playing a game
 
