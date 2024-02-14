@@ -55,7 +55,7 @@ Now also open chrome and go to the [Yellowscribe website](https://yellowscribe.x
 
 <img src="images/army_setup/yellowscribe_web.PNG" alt="drawing" width="1200"/>
 
-###The Yellowscribe TTS Mod
+### The Yellowscribe TTS Mod
 
 Once you are satisfied, go to the bottom of the website and hit submit. This will generate a code, which you will paste in the Yellowscribe table in TTS you had open in the background and submit again. This will generate all the datasheets of your army on the right side of the table. And on the left side you will generate your models by going to objects on top of the screen, hit saved objects and click the properly named subset of models we prepared. Then click on the left side of the table ONCE and then hit esc. 
 
