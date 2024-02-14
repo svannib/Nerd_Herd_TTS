@@ -37,6 +37,11 @@ Subscribe to all of them (you will find a lot of other useful stuff in the TTS m
 <img src="images/army_setup/snake_eyes.PNG" alt="drawing" width="1200"/>
 
 ## Creating and importing lists
+
+### New Recruit
+When your list is ready, go in the top right corner, select ```List option``` then ```Export list``` and ```Yellowscribe```, now go to [this section](###The-Yellowscribe-TTS-Mod) and follow the instructions there
+
+### Battlescribe (deprecated)
 Army lists are created with [Battlescribe](https://battlescribe.net/?tab=news). Export your list as a ```.rosz``` file. We will convert this file into datasheets which can be assigned to models in a bit. 
 In Tabletop simulator, open your army collection in ```Save & Load --> Battleforged mod pack --> Warhammer 40,000 --> Army collections --> <your army>``` and then perform a selection of models. What i mean by that is; take each unique model you will need for your army and move them on the edge of the table (need 147 ork boyz? take 1!) and try to keep them relatively close to each other. Remember that units with heterogenous weapons and champions need different models (looking at you termies). Select this subset of models with your mouse, right-click them and save them as an object. Fight your instinct to name them ```2k_test_LOL``` or ```asdasdasd```, i would argue that taking 3 seconds out of your very busy life to name them properly will save you a lot of headaches if you ever need them again. Once you get more familiar with how yellowscribe works you can prepare your favorite units or armies in advance and have them saved as objects in your arsenal of models. Wanna skip this step and load your entire codex directly at the next step? Well... remember that TTS is meant to simulate tables in real life, so good luck with that!
 
@@ -49,6 +54,8 @@ Now, go back to the main menu and open yellowscribe v2.
 Now also open chrome and go to the [Yellowscribe website](https://yellowscribe.xyz/). There you will upload your ```.rosz``` file. Now you can check all your datasheets and rename them as you please (f.ex. "'Zerker rhino" and "Eightbound rhino"). 
 
 <img src="images/army_setup/yellowscribe_web.PNG" alt="drawing" width="1200"/>
+
+###The Yellowscribe TTS Mod
 
 Once you are satisfied, go to the bottom of the website and hit submit. This will generate a code, which you will paste in the Yellowscribe table in TTS you had open in the background and submit again. This will generate all the datasheets of your army on the right side of the table. And on the left side you will generate your models by going to objects on top of the screen, hit saved objects and click the properly named subset of models we prepared. Then click on the left side of the table ONCE and then hit esc. 
 
